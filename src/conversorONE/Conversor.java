@@ -151,5 +151,5 @@ public class Conversor extends JFrame {
 		contentPane.add(resultado);
 		resultado.setColumns(10);
 	}
-	//hello
+	//hola
 }
